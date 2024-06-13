@@ -5,3 +5,7 @@
 
 -Poder verificar se a sintaxe das expressões esta correta
 
+## Coisas a melhorar
+
+-Sistema de fiscalização, usando expressões regulares RegEx
+
